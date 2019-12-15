@@ -30,3 +30,5 @@
     * 2019-12-17 初始 Web
 * MySQL
 * Spring+MyBatis
+
+学习git maven的简单使用
